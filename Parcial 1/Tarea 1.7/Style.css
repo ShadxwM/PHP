@@ -1,0 +1,30 @@
+html
+{
+    background-color:beige;
+
+}
+h4
+{
+     
+    color:black;
+}
+.papu
+{
+    text-align: center;
+}
+.puntuacion
+{
+    margin: 0 auto;
+}
+#menu
+{
+    font-size: large;
+    font-style: italic;
+}
+img.nutria
+{
+    border: aqua 10px solid;
+    margin: auto 0 10px 10px;
+    float: right;
+    width: 20rem;
+}
