@@ -1,0 +1,21 @@
+html
+{
+    background-color:beige;
+}
+h4
+{
+    color:black;
+}
+.papu
+{
+    text-align: center;
+}
+.puntuacion
+{
+    margin: 0 auto;
+}
+#menu
+{
+    font-size: large;
+    font-style: italic;
+}
