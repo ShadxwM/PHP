@@ -1,0 +1,17 @@
+html
+{
+    background-color: #faebd7;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif
+}
+div
+{
+    background: linear-gradient(#0000,#ffffff, #05ee2400, #0000);
+    font-size: xx-large;
+}
+input
+{
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+}
